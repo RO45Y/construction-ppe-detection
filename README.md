@@ -10,9 +10,11 @@ A simple Streamlit demo app for detecting Personal Protective Equipment (PPE) on
 
 ## Demo
 
-![PPE Detection Demo](demo/PPE_DEMO.mkv)
+Watch the PPE detection demo below:
 
-*Real-time detection of safety helmet and vest compliance*
+[📹 Download Demo Video (MKV)](https://github.com/RO45Y/construction-ppe-detection/releases/download/v1.0-demo/PPE_DEMO.mkv)
+
+*The demo shows real-time detection of safety helmet and vest compliance.*
 
 
 ## Detected Classes
