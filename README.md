@@ -43,15 +43,14 @@ Higher weights for `vest` and `no-vest` classes help the model better detect saf
 
 ## Dataset
 
-Dataset sourced from Roboflow:
+Dataset sourced from [Roboflow](https://roboflow.com).
 
-```python
-from roboflow import Roboflow
+- **Workspace:** rohit-yadav-fswnv
+- **Project:** safety-tucje-ba78y
+- **Version:** 1
+- **Format:** YOLOv8
 
-rf = Roboflow(api_key="driNxP0m2Aa7pojif1wF")
-project = rf.workspace("rohit-yadav-fswnv").project("safety-tucje-ba78y")
-dataset = project.version(1).download("yolov8")
-```
+Download the dataset manually or use your own Roboflow API key in the training notebook.
 
 ## Setup
 
