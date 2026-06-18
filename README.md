@@ -8,6 +8,13 @@ A simple Streamlit demo app for detecting Personal Protective Equipment (PPE) on
 - **Video Upload** – Upload videos (MP4, AVI, MOV, MKV) with frame-by-frame detection
 - **Webcam** – Real-time PPE detection using your laptop camera
 
+## Demo
+
+![PPE Detection Demo](demo/PPE_DEMO.mkv)
+
+*Real-time detection of safety helmet and vest compliance*
+
+
 ## Detected Classes
 
 | Class | Color | Meaning |
